@@ -8,7 +8,7 @@ import (
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
-	pb "./helloworld"
+	pb "github.com/car123che/-SO1-Practica2_201800624/tree/master/[SO1]Practica2_201800624/Test/GRCP/grpc-go-1.46.0/goO/client/helloworld"
 
 	"fmt"
 	"net/http"
